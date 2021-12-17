@@ -1,0 +1,3 @@
+final is meant to show the bubble, quick, merge short as a gui.
+thought it runs the gui doesnt work properly thought the logic does for 
+wach sorting algrothrim. Really had fun making this.  
